@@ -1,6 +1,6 @@
 # NeuroTIS
 
-NeuroTIS: A hybrid graphical model and deep learning framework for effective prediction of translation initiation sites in mRNA sequences
+NeuroTIS: Enhancing the prediction of translation initiation sites in mRNA sequences via a hybrid dependency network and deep learning framework
 
 Developer: Chao Wei (cwei_hb@126.com) from School of Computer Science and Technology, Xidian University, Xi’an 710071, PR China
 
